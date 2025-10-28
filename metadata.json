@@ -1,0 +1,7 @@
+{
+  "name": "MindMate - AI Mood Translator",
+  "description": "An empathetic AI companion that understands your emotions from your words. Get insights into your mood, receive supportive messages, track your feelings in a journal, and visualize your emotional well-being over time.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
